@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+    background-color:gainsboro;
+    word-spacing: 0.5px;
+
+}
+h1{
+   background-color: black;
+   color: white;
+   text-align: right;
+   margin: -10px;
+   padding: 10px; 
+}
+section{
+    border-top: 3px solid black;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h2{
+    font-size: 200%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    width: 20%;
+    letter-spacing: 0.2em;
+    margin-top: 1em;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+p.negrita1{
+    font-weight: bolder;
+    font-size: 140%;
+    border-bottom: white 4px solid;
+}
+q{
+    font-size: 140%;
+    border-bottom: red 1px dashed;
+}
+span.rojo{
+    color: red;
+    background-color: white;
+}
+span.azul{
+    color: blue;
+}
